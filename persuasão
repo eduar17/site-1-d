@@ -1,0 +1,42 @@
+<DOCTYPE>
+     <html>
+         <head>
+             <meta charset="utf-8">
+              <title>MusicDot</title>
+             </head>
+              <body>
+                 <h1>Veja agora 5 videos de persuasão</h1>
+                  <h2>Quando pensamos em persuasão, logo nos vem a mente:a arte de enganar os outros!. Mas nao e be, assim, como tudo na vida pode ser bom ou ruim.portanto, persuasão, a arte de convencer, tambem, veja logo abaixo 5 videos que te tornarao melhor do 95% das pessoas.</h2>
+                
+                  
+             <h1>video 1</h1>
+              <h3>Do "CANAL DO VELEMTIM" VEJA P VIDEO "4 tecnicas para as pessoas dizerem SIM"</h3>
+               <div> <iframe width="560" height="315" src="https://www.youtube.com/embed/voxVw4QdSqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             </div>
+
+    <h1>video 2</h1>
+     <h3>Veja "7 gestos de linguagem corporal que voce precisa conhecer para desvendar as pessoas" DO CANAL "João Abrantes"</h3>
+      <div>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/AxBDTcaHNTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     </div>
+    
+     <h1>Video 3</h1>
+     <h3>Logo a seguir, de um dos maiores canais sovre o assunto, "Metaforando" nos traz o video"Como influenciar e persuadir pessoas (Linguagem corporal -metaforando)"</h3>
+      <div>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL20z1DGqLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         </div>
+
+    <h1>Video 4</h1>
+     <h3>quanto mais melhor!"6 Técnicas de Persuasão Altamente Eficazes Para Influenciar Pessoas" do canal "viver de blog"</h3>
+     <div>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/yjHOOARdG-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         </div>
+
+    h1>video 5</h1>
+     <h3>e por ultimo,entretanto, nao menos importante "Livros sobre persuasão, inteligência social e manipulação" do canal "DalboniP"</h3>
+      <div> <iframe width="560" height="315" src="https://www.youtube.com/embed/5ctVz1Mfe3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     </div>
+     
+     <h1>Por hoje e so, se gostaram, amem, se nao, lamentamos.</h1> <h2>O site atual foi criadr por: Carlos Felipe(codigo fonte) e Luiz Eduardo(conteudo e github)</h2>
+     </body>
+     </html>
